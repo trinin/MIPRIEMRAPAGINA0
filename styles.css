@@ -50,6 +50,9 @@ p{
     justify-content: space-between;
     width: 100%;
   }
+  .greeting{
+    text-align: center;
+  }
   
   
   .brand {
